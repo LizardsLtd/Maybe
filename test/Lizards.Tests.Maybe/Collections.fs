@@ -1,9 +1,9 @@
-﻿module Picums.Tests.Maybe.Collections
+﻿module Lizards.Tests.Maybe.Collections
 
     open System
     open System.Linq
-    open Picums.Maybe
-    open Picums.Tests
+    open Lizards.Maybe
+    open Lizards.Tests
     open Xunit
     open FsUnit.Xunit
 

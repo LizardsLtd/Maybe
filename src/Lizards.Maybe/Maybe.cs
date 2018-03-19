@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Picums.Maybe
+namespace Lizards.Maybe
 {
     public struct Maybe<T> :
         IComparable<Maybe<T>>

@@ -1,8 +1,8 @@
-module Picums.Tests.Maybe.Extensions
+module Lizards.Tests.Maybe.Extensions
 
     open System
-    open Picums.Maybe
-    open Picums.Tests
+    open Lizards.Maybe
+    open Lizards.Tests
     open Xunit
     open FsUnit.Xunit
 
