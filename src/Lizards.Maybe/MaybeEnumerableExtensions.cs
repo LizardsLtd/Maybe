@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Lizards.Maybe
+namespace Lizzards.Maybe
 {
     public static class MaybeEnumerableExtensions
     {

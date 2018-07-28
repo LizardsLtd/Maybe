@@ -1,4 +1,4 @@
-﻿namespace Lizards.Maybe
+﻿namespace Lizzards.Maybe
 {
     public sealed class Maybe
     {
